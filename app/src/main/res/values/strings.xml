@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FairJudgeApp</string>
+    <string name="search">Search</string>
+    <string name="name_of_establishment">Name of Establishment</string>
+    <string name="cafe">Café</string>
+    <string name="pizza">Pizza</string>
+    <string name="location">Location</string>
+    <string name="delete">Delete</string>
+    <string name="reviewer_id">Reviewer ID</string>
+    <string name="april_18th">April 18th</string>
+    <string name="id">ID</string>
+    <string name="add_review">Add Review</string>
+    <string name="establishment_type">Establishment Type</string>
+    <string name="food_type">Food Type</string>
+    <string name="rating">Rating</string>
+    <string name="required_field">This is a required field</string>
+    <string name="add">Add</string>
+    <string name="added_successfully">Added successfully</string>
+</resources>
